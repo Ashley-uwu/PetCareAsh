@@ -1,0 +1,107 @@
+
+body {font-family: "Urbanist", sans-serif; 
+    margin: 0%;
+    background: #97D9FF;
+}
+
+#cabezera {
+    border-bottom: #000000 5px solid;
+}
+
+a:visited {
+    color: black;
+}
+a:hover{ 
+    color: #DF609F;
+}
+#copy {
+    text-align: right;
+    font-size: 18px;
+    margin-top: 200px;
+}
+label img {
+    width: 250px;
+    height: 200px;
+    position: relative;
+    left: 90px;
+}
+#footer {
+    width: 90%;
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+}
+#equipo {
+    font-size: 20px;
+    color: white;
+    background: #004AAD;
+    margin-left: 40px;
+    border-radius: 30px;
+    padding: 10px 40px;
+    position: relative;
+    bottom: 40px;
+    left: 650px;
+}
+#nav {
+    font-size: 20px;
+    background: #ffffff;
+    margin-left: 40px;
+    border-radius: 30px;
+    padding: 10px 40px;
+    position: relative;
+    bottom: 40px;
+    left: 650px;
+}
+
+#mariana {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: 50px;
+    left: 40px;
+}
+#margaret {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: 70px;
+    left: 500px;
+}
+#cecilia {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    bottom: 555px;
+    left: 1000px;
+}
+#steven {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    bottom: 544px;
+    left: 1450px;
+}
+#mar {
+    font-size: 25px;
+    position: absolute;
+    left: 400px;
+    top: 350px;
+}
+#gar {
+    font-size: 25px;
+    position: absolute;
+    left: 100px;
+    top: 700px;
+}
+#cec{
+    font-size: 25px;
+    position: absolute;
+    right: 100px;
+    bottom: 485px;
+}
+#tev {
+    font-size: 25px;
+    position: absolute;
+    right: 500px;
+    bottom: 140px;
+}
